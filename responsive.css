@@ -1,0 +1,111 @@
+
+@media only screen and (max-width:630px) {
+      
+      .nav-container nav ul  {
+        /* border: solid red 3px; */
+        display: none;
+      }
+      .nav-container nav button{
+        margin-right: 20px;
+      }
+      .first-sec-right{
+        /* border: solid red 3px; */
+        padding: 0!important;
+        height: 200px!important;
+        
+      }
+      .first-sec-left{
+        padding: 0!important;
+        /* border: solid green 3px; */
+        height: 300px!important;
+      
+      }
+      .first-section{
+        padding: 0!important;
+        
+        /* border: solid yellow 10px!important; */
+      }
+
+      .third-section{
+        padding: 10px!important;
+        align-items: start!important;
+        justify-content: start!important;
+        text-align: start!important;
+        /* border: solid red 3px; */
+      }
+      .third-sec-card{
+        padding: 20px!important;
+        text-align: start!important;
+
+      }
+      .fourth-sec-card img{
+        /* border: solid red 5px; */
+        width: 350px!important;
+        padding: 0!important;
+        
+
+      }
+      .four-text img{
+        width: 50px!important;
+        height: 50px!important;
+
+      }
+      .fourth-sec-below {
+        justify-content: start!important;
+        text-align: start!important;
+        /* border: solid red 3px; */
+        padding: 0!important;
+        width: 100%!important;
+
+      }
+      .fourth-sec-above {
+        justify-content: start!important;
+        text-align: start!important;
+        /* border: solid red 3px; */
+        padding: 0!important;
+        width: 100%!important;
+
+      }
+      
+      .sixth-sec-card img{
+        width: 450px;
+        height: 450px;
+        
+      }
+      .sixth-sec-position{
+        width:310px!important;
+        left: 25px;
+        top: 280px;
+      }
+      .seven{
+        margin-bottom: 40px;
+      }
+      .nine-sec-card {
+        /* border: solid red 3px; */
+        margin: 20px!important;
+        padding: 0!important;
+        
+      }
+      .input-box{
+        /* border: solid green 3px; */
+        width:330px!important;
+        min-height: 80px;
+        display: flex;
+        gap: 20px;
+        flex-direction: column;
+      }
+      .thirteen-sec-box{
+        /* border: solid green 3px; */
+        
+
+      }
+    .thirteen-sec-box input{
+      /* border: solid yellow 3px; */
+      width: 330px!important;
+    }
+    .thirteen-sec-box textarea{
+
+      /* border: solid yellow 3px; */
+      width: 330px!important;
+    }
+}
